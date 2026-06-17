@@ -1,0 +1,20 @@
+# ============================================
+# RAG Claude Chatbot - Dépendances
+# ============================================
+
+# LangChain core
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+
+# Intégrations LLM
+langchain-anthropic>=0.3.0
+langchain-openai>=0.3.0
+
+# Base vectorielle
+langchain-chroma>=0.2.0
+chromadb>=0.5.0
+
+# Utilitaires
+python-dotenv>=1.0.0
