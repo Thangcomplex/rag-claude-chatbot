@@ -163,5 +163,5 @@ MIT
 ## 👤 Auteur
 
 **Pham Duc Thang** — Étudiant ingénieur, INSA Centre-Val de Loire
-- LinkedIn : [votre profil]
-- Email : votre.email@example.com
+- LinkedIn : https://www.linkedin.com/in/ducthangpham/
+- Email : duc_thang.pham@insa-cvl.fr
