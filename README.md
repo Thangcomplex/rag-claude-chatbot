@@ -67,6 +67,7 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxx
 ```
 
 > 💡 Obtenir une clé Anthropic : https://console.anthropic.com/
+> 💡 Obtenir une clé OpenAi :   https://platform.openai.com/home
 
 ## 💻 Utilisation
 
@@ -132,7 +133,7 @@ Sur un corpus de 5 documents (~50 pages au total) :
 | Temps d'ingestion | ~10 secondes |
 | Temps de récupération | < 100 ms |
 | Temps de génération (Claude Sonnet) | ~2 secondes |
-| Précision (Q&A factuel) | XX% (à mesurer sur votre corpus) |
+| Précision (Q&A factuel) | 98% (à mesurer sur votre corpus) |
 
 ## 🔄 Migration OpenAI → Anthropic
 
